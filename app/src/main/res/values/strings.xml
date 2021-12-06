@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="str_past">00:00</string>
+    <string name="str_remain">00:00</string>
+    <string name="fab_play">Play Button</string>
+    <string name="fab_previous">Previous Button</string>
+    <string name="fab_next">Next Button</string>
+    <string name="str_artist">Artist Name</string>
+    <string name="str_song">Song Name</string>
+</resources>
